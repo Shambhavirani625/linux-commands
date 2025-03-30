@@ -1,13 +1,4 @@
-# Linux Command Repository
-
-## Introduction
-Welcome to the Linux Command Repository! This repository is a collection of Linux commands suitable for beginners and advanced users. Whether you are new to Linux or looking to expand your command-line knowledge, this resource is here to help you.
-
-### What is Linux?
-Linux is a popular open-source operating system known for its power, flexibility, and robust command-line interface. Learning how to use Linux commands is essential for efficient system administration, development, and automation tasks.
-
-## Commands
-Below is a list of commonly used Linux commands categorized by their functionality. Each command is accompanied by a brief description of its purpose.
+# Linux Command PR
 
 ## Disk Management
 - `fdisk`: Partition table manipulator.
